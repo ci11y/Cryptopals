@@ -11,5 +11,6 @@ base64_string = base64.b64encode(hex_bytes)
 print (base64_string)
 #b'SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t'
 
-print (binascii.unhexlify(string))  #bonus
+'''bonus'''
+print (binascii.unhexlify(string))
 #b"I'm killing your brain like a poisonous mushroom"
