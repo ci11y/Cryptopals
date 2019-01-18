@@ -1,3 +1,5 @@
+#Fixed XOR
+
 import binascii #bonus
 
 def xor (buf1, buf2):
